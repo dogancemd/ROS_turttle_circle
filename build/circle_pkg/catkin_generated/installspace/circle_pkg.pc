@@ -1,0 +1,8 @@
+prefix=/home/dogancemd/circle/install
+
+Name: circle_pkg
+Description: Description of circle_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
